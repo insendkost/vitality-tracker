@@ -1,0 +1,32 @@
+[] === Back up started
+[] Docker containers are running - proceeding with backup
+[] Creating backup of database 'vitality-app-db'...
+time="2025-08-31T15:08:37+03:00" level=warning msg="/mnt/f/Projects/FitnessApp/BE/vitality-tracker-be-FastApi/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[] Error: Backup failed or file is empty
+[2025-08-31 15:10:17] === Backup process started ===
+[2025-08-31 15:10:17] Docker containers are running - proceeding with backup
+[2025-08-31 15:10:17] Creating backup of database 'vitality-app-db'...
+time="2025-08-31T15:10:17+03:00" level=warning msg="/mnt/f/Projects/FitnessApp/BE/vitality-tracker-be-FastApi/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[2025-08-31 15:10:17] SUCCESS: Backup completed successfully!
+[2025-08-31 15:10:17] Backup saved to: /mnt/f/Projects/FitnessApp/BE/backups/vitality-app-db-backup-20250831-151017.sql
+[2025-08-31 15:10:17] Backup size: 56K
+[2025-08-31 15:10:17] Total backups in directory: 2
+[2025-08-31 15:10:17] === Backup process completed successfully ===
+[2025-08-31 22:40:02] === Backup process started ===
+[2025-08-31 22:40:02] Docker containers are running - proceeding with backup
+[2025-08-31 22:40:02] Creating backup of database 'vitality-app-db'...
+time="2025-08-31T22:40:02+03:00" level=warning msg="/mnt/f/Projects/FitnessApp/BE/vitality-tracker-be-FastApi/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[2025-08-31 22:40:02] SUCCESS: Backup completed successfully!
+[2025-08-31 22:40:02] Backup saved to: /mnt/f/Projects/FitnessApp/BE/backups/vitality-app-db-backup-20250831-224002.sql
+[2025-08-31 22:40:02] Backup size: 64K
+[2025-08-31 22:40:02] Total backups in directory: 3
+[2025-08-31 22:40:02] === Backup process completed successfully ===
+[2025-09-03 10:45:41] === Backup process started ===
+[2025-09-03 10:45:41] Docker containers are running - proceeding with backup
+[2025-09-03 10:45:41] Creating backup of database 'vitality-app-db'...
+time="2025-09-03T10:45:42+03:00" level=warning msg="/mnt/f/Projects/FitnessApp/BE/vitality-tracker-be-FastApi/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+[2025-09-03 10:45:42] SUCCESS: Backup completed successfully!
+[2025-09-03 10:45:42] Backup saved to: /mnt/f/Projects/FitnessApp/BE/backups/vitality-app-db-backup-20250903-104541.sql
+[2025-09-03 10:45:42] Backup size: 84K
+[2025-09-03 10:45:42] Total backups in directory: 4
+[2025-09-03 10:45:42] === Backup process completed successfully ===
